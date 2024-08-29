@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Kazuma Yagi!
 
 I'm a student at the Graduate School of Science and Engineering, Kansai University.
 
