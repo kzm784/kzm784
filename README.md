@@ -1,4 +1,4 @@
-# Hello There 👋
+# Hi There 👋
 
 I'm Kazuma Yagi at the Graduate School of Science and Engineering, Kansai University.
 
