@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm Kazuma Yagi at the Graduate School of Science and Engineering, Kansai University.
+I'm Kazuma Yagi.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzm784&theme=github_dark)
 
